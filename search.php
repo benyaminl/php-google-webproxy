@@ -1,6 +1,6 @@
 <?php 
 if (isset($_GET["q"])) {
-    $url = "https://www.google.com/search?q=".$_GET["q"];
+    $url = "https://www.mojeek.com/search?q=".$_GET["q"];
     $url = urlencode($url);
     header("Location: index.php?q=".$url);
     exit;
@@ -15,13 +15,13 @@ if (isset($_GET["q"])) {
     <title>Search The Web | Google Proxy</title>
 </head>
 <body>
-    <h3>Google</h3>
+    <h3>Mojeek</h3>
     <h4>Proxied</h4>
     <form method="get">
         Kata Kunci <input type="text" name="q" >
         <input type="submit" value="Cari">
     </form>
     <br><br>
-    <div>(C) 2022 - Using PHP-Proxy and Backed by Google</div>
+    <div>(C) 2022 - Using PHP-Proxy and Backed by Mojeek</div>
 </body>
 </html>

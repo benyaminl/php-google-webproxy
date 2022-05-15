@@ -1,6 +1,6 @@
-# Google Proxy for IE8
+# ~~Google~~ Mojeek Proxy for IE8
 
-Simple Google Search Wrapper + Proxy build on top of [**php-proxy library**](https://github.com/Athlon1600/php-proxy) ready to be installed on your server. make old Windows XP IE8 works again... 
+Simple Mojeek Search Wrapper + Proxy build on top of [**php-proxy library**](https://github.com/Athlon1600/php-proxy) ready to be installed on your server. make old Windows XP IE8 works again... 
 
 #### /templates/
 
